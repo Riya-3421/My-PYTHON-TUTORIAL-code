@@ -5,4 +5,4 @@ def square(x):
 
 #Test
 print(square(4))
-print(square(7))
+print(square(8))
